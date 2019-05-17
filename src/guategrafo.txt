@@ -1,0 +1,10 @@
+Gautemala,Antigua,45
+Antigua,Flores,200
+Xela,Guatemala,40
+Xela,Antigua,30
+Panajachel,Antigua,50
+Antigua,Guatemala,50
+Antigua,Xela,30
+Flores,Guatemala,230
+Flores,Xela,170
+Guatemla,Panajachel,55
